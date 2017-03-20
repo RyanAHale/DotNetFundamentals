@@ -10,7 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_html", "1_html", "{1CBAD8
 		0.03_lists.html = 0.03_lists.html
 		0.04_links.html = 0.04_links.html
 		0.05_images.html = 0.05_images.html
-		0.06_tables.html = 0.06_tables.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{92B67016-D925-414D-A922-38DC04512A39}"
